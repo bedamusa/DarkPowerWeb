@@ -1,0 +1,9 @@
+{
+    "name": "bedamusa/darkpowerweb",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+		"DarkPowerWeb\\": "./"
+		}
+	}
+}
